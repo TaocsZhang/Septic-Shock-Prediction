@@ -34,4 +34,6 @@ MIMIC datasets <br>
 https://mimic.mit.edu/docs/gettingstarted/
 
 # Evaluation
-The results are given in FL_main.py. The results show that the model performance in federated learning is pretty close to the model performance in centralized learning.
+The results are given in FL_main.py. <br>
+The results show that the LSTM model is able to give an early predition for septic shock with around 96% accuracy. <br>
+The results show that the model performance in federated learning is pretty close to the model performance in centralized learning.
