@@ -22,10 +22,15 @@ Sklearn <br>
 
 # Getting started
 client_update.py is used to update the model in the local client. <br>
+
 server_update use FedAvg algorithm to aggregate the final model. <br>
+
 model.py is used to build LSTM model. <br>
+
 utilis.py is used for data partition in IID and NON IID way. <br>
+
 process_data.py and load_data.ipynb is used for data pre-processing. <br>
+
 FL_main.py is used to train the federated model in different settings.
 
 # Datasets
@@ -35,5 +40,7 @@ https://mimic.mit.edu/docs/gettingstarted/
 
 # Evaluation
 The results are given in FL_main.py. <br>
+
 The results show that the LSTM model is able to give an early predition for septic shock with around 96% accuracy. <br>
+
 The results show that the model performance in federated learning is pretty close to the model performance in centralized learning.
