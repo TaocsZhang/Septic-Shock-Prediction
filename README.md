@@ -3,7 +3,7 @@ Use  LSTM model to predict septic shock in the Federated learning setting
 
 Author: Tao Zhang
 
-This is part of code for the project 'septic shock prediction'.
+This is part of code for my intern project 'septic shock prediction'.
 
 # Introduction
 Septic shock is a life-threatening condition caused by a severe localised or system-wide infection. Sepsis is a major health concern with global estimates of 31.5 million cases per year. Case fatality rates are still unacceptably high, and early detection and treatment is vital since it significantly reduces mortality rates for this condition. Using machine learning models to make an early detecton is a promising solution.
